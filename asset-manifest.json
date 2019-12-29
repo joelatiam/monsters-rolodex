@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "joelatiam.github.io/monsters.rolodex/static/css/main.348bf2ca.chunk.css",
+    "main.js": "joelatiam.github.io/monsters.rolodex/static/js/main.8aeda42e.chunk.js",
+    "main.js.map": "joelatiam.github.io/monsters.rolodex/static/js/main.8aeda42e.chunk.js.map",
+    "runtime-main.js": "joelatiam.github.io/monsters.rolodex/static/js/runtime-main.1350140d.js",
+    "runtime-main.js.map": "joelatiam.github.io/monsters.rolodex/static/js/runtime-main.1350140d.js.map",
+    "static/js/2.7db90bec.chunk.js": "joelatiam.github.io/monsters.rolodex/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "joelatiam.github.io/monsters.rolodex/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "joelatiam.github.io/monsters.rolodex/index.html",
+    "precache-manifest.0e9935b37cfe15d9c956a48eb29620a3.js": "joelatiam.github.io/monsters.rolodex/precache-manifest.0e9935b37cfe15d9c956a48eb29620a3.js",
+    "service-worker.js": "joelatiam.github.io/monsters.rolodex/service-worker.js",
+    "static/css/main.348bf2ca.chunk.css.map": "joelatiam.github.io/monsters.rolodex/static/css/main.348bf2ca.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "joelatiam.github.io/monsters.rolodex/static/js/2.7db90bec.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1350140d.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.348bf2ca.chunk.css",
+    "static/js/main.8aeda42e.chunk.js"
+  ]
+}
